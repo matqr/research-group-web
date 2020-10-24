@@ -1,10 +1,10 @@
-name: Awesome Research Group
-url: http://matiasquintana.com/research-group-web
+name: BUDSLab
+url: https://matiasquintana.com/research-group-web
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
 # colorize code snippets with the pygments module
-highlighter: pygments
+# highlighter: pygments
 
 # The path structure for blog posts.
 permalink: /blog/:year/:month/:day/:title.html
@@ -13,8 +13,8 @@ permalink: /blog/:year/:month/:day/:title.html
 roles:
   - key: faculty
     name: Faculty
-  - key: staff
-    name: Staff
+  # - key: staff
+    # name: Staff
   - key: postdoc
     name: Researchers
   - key: grad
@@ -47,7 +47,7 @@ navigation:
     link: /#people
   - title: Research
     link: /research.html
-  - title: Publications
-    link: /publications.html
-  - title: Code
-    link: /code.html
+  # - title: Publications
+  #   link: /publications.html
+  # - title: Code
+  #   link: /code.html
