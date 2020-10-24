@@ -1,5 +1,5 @@
 name: BUDSLab
-url: https://matiasquintana.com/research-group-web/
+url: http://matqr.github.io/research-group-web/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
