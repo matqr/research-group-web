@@ -1,5 +1,5 @@
 name: BUDSLab
-url: 
+url: # NOTE: is not needed when deployed on github pages
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 

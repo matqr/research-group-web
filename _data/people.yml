@@ -1,161 +1,183 @@
-
-prof-a:
-    display_name: "Prof A"
+# faculty
+clayton:
+    display_name: "Clayton Miller"
+    github: cmiller8
     role: faculty
-
-prof-b:
-    display_name: "Prof B"
-    role: faculty
-
-prof-c:
-    display_name: "Prof C"
-    role: faculty
-
-profx:
-    display_name: "Professor X"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    github: profx
-    role: faculty
-    image: /img/people/prof-x.png
+    image: /img/people/dr_clayton_miller.png
     bio: Professor
 
-scott:
-    display_name: "Scott Summers"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    role: staff
-    image: /img/people/scott.png
-    bio: aka Cyclops
-
-wolverine:
-    display_name: "Wolverine"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-    github: wolverine
+    # staff/postdocs
+mario:
+    display_name: "Mario Frei"
+    webpage: "https://github.com/mariofrei"
+    github: mariofrei
     role: postdoc
+    image: 
+    bio: PostDoc
 
-storm:
-    display_name: "Storm"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
-    role: grad
-    image: /img/people/storm.png
+martin:
+    display_name: "Martin Mosteiro"
+    webpage: 
+    github:
+    role: postdoc
+    image: 
+    bio: PostDoc
 
-grad-a:
-    display_name: "Grad A"
-    role: grad
+miguel:
+    display_name: "Miguel Martin"
+    webpage: 
+    github:
+    role: postdoc
+    image: 
+    bio: PostDoc
 
-grad-b:
-    display_name: "Graduate Student B With Long Name"
-    role: grad
-
-grad-c:
-    display_name: "Grad C"
-    role: grad
-
-grad-d:
-    display_name: "Grad D"
-    role: grad
-
-grad-e:
-    display_name: "Grad E"
-    role: grad
-
-grad-f:
-    display_name: "Grad F"
+# grad students
+matias:
+    display_name: "Matias Quintana"
+    webpage: "https://www.matiasquintana.com"
+    github: matqr
+    image: /img/people/matias.png
     role: grad
 
-grad-g:
-    display_name: "Grad G"
+mahmoud:
+    display_name: "Mahmoud AbdelRahman"
+    webpage: "https://github.com/MahmoudAbdelRahman"
+    github: "MahmoudAbdelRahman"
+    image: /img/people/mahmoudouf.jpg
     role: grad
 
-grad-h:
-    display_name: "Grad H"
+chun:
+    display_name: "Chun Fu"
+    webpage: "https://github.com/PatrickFu0302"
+    github: "PatrickFu0302"
+    image: /img/people/fuchun.png
     role: grad
 
-grad-i:
-    display_name: "Grad I"
+irvin:
+    display_name: "Irvin Tang"
+    webpage: "https://github.com/irrhuh"
+    github: "irrhuh"
+    image: /img/people/irvin1.png
     role: grad
 
-alum-a:
-    display_name: "Alum A"
+julien:
+    display_name: "Julien LePrince"
+    webpage: 
+    github: 
+    image:
+    role: grad
+
+# alumns
+jonathan:
+    display_name: "Jonathan Roth"
+    webpage: "https://github.com/jmr385"
+    github: jmr385
     role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
+    image: /img/people/jonathan.png
+    bio: "Exchange Ph.D., 2020. Ph.D., at Stanford"
 
-alum-b:
-    display_name: "Alum B With Way Longer Name"
+ananya:
+    display_name: "Ananya Joshi"
+    webpage: "https://github.com/ananion-cation"
+    github: "ananion-cation"
     role: alum
+    image: img/people/ananya.png
+    bio: "Exchange Ph.D., 2019. Ph.D., at Carnegie Mellon University"
 
-alum-c:
-    display_name: "Alum C"
+pj:
+    display_name: "Dr. Prageeth Jayathissa"
+    webpage: "https://github.com/pjayathissa"
+    github: "pjayathissa"
     role: alum
-    webpage: "https://www.google.com"
+    image: /img/people/pjjayasthissa.jpeg
+    bio: "PostDoc, 2019. Now at New Zealand."
 
-alum-d:
-    display_name: "Alum D"
+jayashree:
+    display_name: "Dr. Jayashree Chadalawada"
+    webpage: "https://github.com/Jayashreerao"
+    github: "Jayashreerao"
     role: alum
+    bio: "PostDoc, 2017-2019. Now at NUS Dept. of Civil Engineering"
 
-alum-e:
-    display_name: "Alum E"
+tapeesh:
+    display_name: "Tapeesh Sood"
+    webpage: "https://github.com/tapeesh"
+    github: "tapeesh"
     role: alum
+    image: /img/people/tapeesh.png
+    bio: "Research Associate, 2017-2019. Now at WeWork"
 
-alum-f:
-    display_name: "Alum F"
+kyu:
+    display_name: "Dongkyu Lee"
+    webpage: "https://github.com/Kyu2"
+    github: "Kyu2"
     role: alum
+    bio: "Research Associate, 2016-2017. Now at Hanyang University"
 
-alum-g:
-    display_name: "Alum G"
-    role: alum
-
-alum-h:
-    display_name: "Alum H"
-    role: alum
-
-alum-i:
-    display_name: "Alum I"
-    role: alum
-
-collab-a:
-    display_name: "Collaborator A"
+# collaborators
+federico:
+    display_name: "Dr. Federico Tartarini"
+    webpage: "https://federicotartarini.github.io/"
+    github: "FedericoTartarini"
     role: collab
+    image: /img/people/federico.png
+    bio: "PostDoc, BEARS"
 
-collab-b:
-    display_name: "Collaborator B With Long Name"
+samy:
+    display_name: "Dr. Pandarasamy Arjunan"
+    webpage: "https://github.com/HiSamy"
+    github: "HiSamy"
     role: collab
+    bio: "PostDoc, BEARS"
 
-collab-c:
-    display_name: "Collaborator C"
+renee:
+    display_name: "Renee Christensen"
+    webpage: "https://www.linkedin.com/in/renee-christensen-66843688/"
     role: collab
+    image: /img/people/renee.jpeg
+    bio: "Research Fellow, SDE at NUS"
 
-collab-d:
-    display_name: "Collaborator D"
+jovan:
+    display_name: "Dr. Jovan Pantelic"
+    webpage: ""
     role: collab
+    bio: "Assistant professional researcher, UC Berkeley"
 
-collab-e:
-    display_name: "Collaborator E"
-    role: collab
-
-ugrad-a:
-    display_name: "Ugrad A"
+# undergrads
+yiting:
+    display_name: "Yi Ting Teo"
+    webpage: "https://www.linkedin.com/in/teo-yi-ting-61593496/"
+    image: /img/people/yiting.png
     role: ugrad
 
-ugrad-b:
-    display_name: "Ugrad Student B With Long Name"
+charlene:
+    display_name: "Charlene Tan"
+    webpage: "https://www.linkedin.com/in/charlene-tan-a9497b143/"
     role: ugrad
 
-ugrad-c:
-    display_name: "Ugrad C"
+yunxuan:
+    display_name: "Yun Xuan Chua"
+    webpage: "https://www.linkedin.com/in/chuayunxuan/"
     role: ugrad
 
-ugrad-d:
-    display_name: "Ugrad D"
+pearlyn:
+    display_name: "Pearlyn"
     role: ugrad
 
-ugrad-e:
-    display_name: "Ugrad E"
+jinkai:
+    display_name: "Jin Kai Leong"
     role: ugrad
 
-ugrad-alum-a:
-    display_name: "Past Ugrad A"
-    role: ugrad-alum
+jamais:
+    display_name: "Jamais"
+    role: ugrad
 
-ugrad-alum-b:
-    display_name: "Past Ugrad Student B With Long Name"
+jiajing:
+    display_name: "Jia Jing"
+    role: ugrad
+
+vanessa:
+    display_name: "Vanessa Neo"
+    webpage: "https://www.linkedin.com/in/vanessa-neo/"
+    image: /img/people/vanessa.png
     role: ugrad-alum
