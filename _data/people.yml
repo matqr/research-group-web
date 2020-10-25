@@ -6,7 +6,7 @@ clayton:
     image: /img/people/dr_clayton_miller.png
     bio: Professor
 
-    # staff/postdocs
+# staff/postdocs
 mario:
     display_name: "Mario Frei"
     webpage: "https://github.com/mariofrei"
