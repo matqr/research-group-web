@@ -32,8 +32,8 @@ roles:
 front_page_news: 8
 
 # Base pathname for links.
-base: /research-group-web # NOTE: when hosted under the budslab repository, leave this with an empty string ''
-
+# base: /research-group-web # NOTE: when hosted under the budslab repository, leave this with an empty string ''
+base: ''
 # make pages for the _projects folder
 collections:
   projects:
