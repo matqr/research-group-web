@@ -43,20 +43,11 @@
                                 href="{{ item.link }}"></a>
                                 <img src="{{ site.base }}/img/github_logo_crop.png" hspace="2" height="22" align="left">
                                 {{ item.title }}
-                            <!-- {% endif %} -->
                             {% if item.title != 'Code' %}
                                 <a class="nav-link {{ maybe-active }}"
                                 href="{{ site.base }}{{ item.link }}"></a>
                                 {{ item.title }}
                             {% endif %}
-                            
-                            <!-- <a class="nav-link {{ maybe-active }}"
-                               href="{{ site.base }}{{ item.link }}"></a>
-                               {% if item.title == 'Code' %}
-                                   <img src="{{ site.base }}/img/github_logo_crop.png" hspace="2" height="22" align="left">
-                               {% endif %}
-                               {{ item.title }}
-                            </a> -->
                         </li>
 
                     {% endfor %}
