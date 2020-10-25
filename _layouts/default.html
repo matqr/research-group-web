@@ -40,17 +40,17 @@
                         <li class="nav-item">
                             {% if item.title == 'Code' %}
                                 <a class="nav-link {{ maybe-active }}"
-                                href="{{ item.link }}"></a>
+                                    href="{{ item.link }}">
                                 <img src="{{ site.base }}/img/github_logo_crop.png" hspace="2" height="22" align="left">
                                 {{ item.title }}
-                            {% endif %}
-                            {% if item.title != 'Code' %}
+                                </a>
+                            {% else %}
                                 <a class="nav-link {{ maybe-active }}"
-                                href="{{ site.base }}{{ item.link }}"></a>
+                                    href="{{ site.base }}{{ item.link }}">
                                 {{ item.title }}
+                                </a>
                             {% endif %}
                         </li>
-
                     {% endfor %}
                         
                 </ul>
