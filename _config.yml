@@ -13,8 +13,8 @@ permalink: /blog/:year/:month/:day/:title.html
 roles:
   - key: faculty
     name: Faculty
-  # - key: staff
-    # name: Staff
+  - key: staff
+    name: Staff
   - key: postdoc
     name: Researchers
   - key: grad
@@ -33,6 +33,7 @@ front_page_news: 8
 
 # Base pathname for links.
 base: /research-group-web # NOTE: when hosted under the budslab repository, leave this with an empty string ''
+# base: '' # use this for testing locally
 
 # make pages for the _projects folder
 collections:
@@ -44,10 +45,10 @@ navigation:
   - title: Home
     link: /
   - title: People
-    link: /#people
+    link: /people 
   - title: Research
     link: /research.html
   # - title: Publications
   #   link: /publications.html
-  # - title: Code
-  #   link: /code.html
+  - title: Code
+    link: https://github.com/buds-lab

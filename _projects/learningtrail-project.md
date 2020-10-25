@@ -6,7 +6,7 @@ people:
   - tapeesh
   - clayton
 image: img/learningtrail_smaller.png
-no-link: true
+# no-link: true
 layout: project
-last-updated: 2020-10-22
+last-updated: 2019-03-31
 ---

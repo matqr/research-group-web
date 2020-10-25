@@ -6,7 +6,8 @@ description: An NUS Project in collaboration with an NUS Spin-off SenSING and As
 people:
   - clayton
 
+status: inactive
 layout: project
 no-link: true
-last-updated: 2019-09-30
+last-updated: 2018-12-31
 ---

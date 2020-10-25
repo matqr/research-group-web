@@ -6,8 +6,9 @@ description: A website for data science tutorials for building performance analy
 people:
   - clayton
 
+status: inactive
 no-link: true
 layout: project
 image: /img/datadrivenbuilding.png
-last-updated: 2020-10-22
+last-updated: 2019-01-31
 ---

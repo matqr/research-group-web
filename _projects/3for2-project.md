@@ -5,9 +5,9 @@ description: More information can be found [here](https://systems.arch.ethz.ch/r
 people:
   - clayton
   - jovan
-
+status: inactive
 no-link: true
 layout: project
-last-updated: 2018-12-12
+last-updated: 2017-12-31
 ---
 

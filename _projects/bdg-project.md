@@ -5,7 +5,7 @@ description: Collaboration with [Princeton CHAOS Lab](https://chaos.princeton.ed
 people:
   - clayton
 image: img/building_data_genome.png
-no-link: true
+# no-link: true
 layout: project
-last-updated: 2020-10-22
+last-updated: 2019-02-31
 ---

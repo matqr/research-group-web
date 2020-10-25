@@ -20,7 +20,6 @@
                         flex-md-row justify-content-md-between">
                 <a href="{{ site.base }}/" class="">
                     <img src="{{ site.base }}/img/budslab_banner.png"
-                         srcset="{{ site.base }}/img/logo@2x.png 2x"
                          alt="BUDS Lab" id="logo">
                 </a>
                 <ul class="nav nav-pills justify-content-center">
@@ -41,13 +40,20 @@
                         <li class="nav-item">
                             <a class="nav-link {{ maybe-active }}"
                                href="{{ site.base }}{{ item.link }}">
-                                {{ item.title }}
+                               {% if item.title == 'Code' %}
+                                   <img src='/img/github_logo_crop.png' hspace="2", height="22" align="left">
+                               {% endif %}
+                               {{ item.title }}
                             </a>
                         </li>
 
                     {% endfor %}
-
+                        
                 </ul>
+                <a href="https://www.sde.nus.edu.sg/" class="">
+                    <img src="{{ site.base }}/img/nus.png"
+                         alt="NUS" id="nus_logo">
+                </a>
             </div>
 
             {% if page.image %}
@@ -64,10 +70,8 @@
             {{ content }}
 
             <div class="footer">
-                <p>
-                    <a href="http://dept.example.edu/">Illustrious Department</a>
-                    at the
-                    <a href="http://example.edu/">University of Example</a>
+                <p> This website is powered by the open-source template:
+                    <a href="https://github.com/uwsampa/research-group-web">uwsampa on GitHub</a>
                 </p>
             </div>
 

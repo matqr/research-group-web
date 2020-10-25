@@ -6,7 +6,7 @@ people:
   - ananya
   - clayton
 image: img/BuzzNet2.png
-no-link: true
+# no-link: true
 layout: project
-last-updated: 2020-10-22
+last-updated: 2019-05-31
 ---
