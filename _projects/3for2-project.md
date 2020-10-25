@@ -8,6 +8,6 @@ people:
 status: inactive
 no-link: true
 layout: project
-last-updated: 2017-12-31
+last-updated: 2017-12-01
 ---
 

@@ -5,8 +5,8 @@ description: An NUS Project in collaboration with the Dean’s Office at the NUS
 people:
   - tapeesh
   - clayton
-image: img/learningtrail_smaller.png
-# no-link: true
+image: /img/learningtrail_smaller.png
+
 layout: project
-last-updated: 2019-03-31
+last-updated: 2019-03-01
 ---

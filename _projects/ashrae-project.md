@@ -8,8 +8,8 @@ people:
   - clayton
   - jonathan
   - chun
-image: img/ashraekaggle.png
-# no-link: true
+
+image: /img/ashraekaggle.png
 layout: project
-last-updated: 2019-07-31
+last-updated: 2019-07-01
 ---

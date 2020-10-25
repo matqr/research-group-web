@@ -9,5 +9,5 @@ people:
 status: inactive
 layout: project
 no-link: true
-last-updated: 2018-12-31
+last-updated: 2018-12-01
 ---

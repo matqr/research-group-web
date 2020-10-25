@@ -10,5 +10,6 @@ status: inactive
 no-link: true
 layout: project
 image: /img/datadrivenbuilding.png
-last-updated: 2019-01-31
+
+last-updated: 2019-01-01
 ---

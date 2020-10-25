@@ -5,10 +5,10 @@ description:  SpaceMatch is the Uber® of flexible workspaces – an AI-enhanced
 people:
   - tapeesh
   - clayton
-image: img/spacematch.png
-# no-link: true
+image: /img/spacematch.png
+
 layout: project
-last-updated: 2019-06-31
+last-updated: 2019-06-01
 ---
 
 

@@ -9,8 +9,8 @@ people:
   - federico
   - yiting
   - clayton
-image: img/cozie.png
-# no-link: true
+image: /img/cozie.png
+
 layout: project
-last-updated: 2019-04-31
+last-updated: 2019-04-01
 ---

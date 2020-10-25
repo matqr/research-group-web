@@ -5,8 +5,8 @@ description: A Fulbright Student Project led by BUDS Lab Team member Ananya Josh
 people:
   - ananya
   - clayton
-image: img/BuzzNet2.png
-# no-link: true
+image: /img/BuzzNet2.png
+
 layout: project
-last-updated: 2019-05-31
+last-updated: 2019-05-01
 ---
