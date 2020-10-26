@@ -55,7 +55,7 @@ role-tables:
             {% assign projects_by_date = projects_by_date | reverse %}
             {% for p in projects_by_date %}
                 {% if p.status != "inactive" %} <!-- NOTE: only activate projects -->
-                    <div class="col-lg-4 d-flex align-items-stretch">
+                    <div class="col-md-3 d-flex align-items-stretch">
                         {% include project-card.html project=p %}
                     </div>
                 {% endif %}

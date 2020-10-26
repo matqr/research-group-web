@@ -41,18 +41,18 @@
                             {% if item.title == 'Code' %}
                                 <a class="nav-link {{ maybe-active }}"
                                     href="{{ item.link }}">
-                                <img src="{{ site.base }}/img/github_logo_crop.png" hspace="2" height="22" align="left">
-                                {{ item.title }}
+                                    <img src="{{ site.base }}/img/github_logo_crop.png" hspace="2" height="22" align="left">
+                                    {{ item.title }}
                                 </a>
                             {% else %}
                                 <a class="nav-link {{ maybe-active }}"
                                     href="{{ site.base }}{{ item.link }}">
-                                {{ item.title }}
+                                    {{ item.title }}
                                 </a>
                             {% endif %}
                         </li>
                     {% endfor %}
-                        
+
                 </ul>
                 <a href="https://www.sde.nus.edu.sg/" class="">
                     <img src="{{ site.base }}/img/nus.png"
