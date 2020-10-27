@@ -2,7 +2,7 @@
 title: The ASHRAE Great Energy Predictor III Competition on Kaggle
 
 description: 
-    Biggest building energy-related machine learning competition ever held. 
+  Biggest building energy-related machine learning competition ever held. 
 
 people:
   - clayton

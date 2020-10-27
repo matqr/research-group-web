@@ -1,7 +1,8 @@
 ---
 title: Data Science for Construction, Architecture and Engineering Online EDx Course
 
-description: Edx course about data science for buildings
+description: 
+  Edx course about data science for buildings
 
 people:
   - clayton
@@ -13,7 +14,7 @@ people:
   - jamais
   - jiajing
 
-image: /img/edxdatascience.png
+image: /img/edx.png
 layout: project
 last-updated: 2019-08-01
 ---
