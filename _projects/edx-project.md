@@ -13,8 +13,8 @@ people:
   - jamais
   - jiajing
 
+image: /img/edxdatascience.png
 layout: project
-image: /img/EDxDataScience.png
 last-updated: 2019-08-01
 ---
 
