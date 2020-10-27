@@ -12,7 +12,7 @@ mario:
     webpage: "https://github.com/mariofrei"
     github: mariofrei
     role: postdoc
-    image: 
+    image: /img/people/mario.jpg
     bio: PostDoc
 
 martin:
@@ -20,7 +20,7 @@ martin:
     webpage: 
     github:
     role: postdoc
-    image: 
+    image: /img/people/martin.jpg
     bio: PostDoc
 
 miguel:
@@ -28,7 +28,7 @@ miguel:
     webpage: 
     github:
     role: postdoc
-    image: 
+    image: /img/people/miguel.jpg
     bio: PostDoc
 
 # grad students
