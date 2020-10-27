@@ -55,13 +55,14 @@
 
                 </ul>
                 <a href="https://www.sde.nus.edu.sg/" class="">
-                    <img src="{{ site.base }}/img/nus.png"
+                    <img src="{{ site.base }}/img/nus-sde.png"
                          alt="NUS" id="nus_logo">
                 </a>
             </div>
 
             {% if page.image %}
-                <img src="{{ page.image }}"
+                <!-- NOTE: since the baseurl changed, {{site.base}} was added -->
+                <img src="{{ site.base }}{{ page.image }}" 
                      alt="{{ page.title }}"
                      style="max-width: 400px"
                      class="img-fluid mx-auto d-block mb-4"/>

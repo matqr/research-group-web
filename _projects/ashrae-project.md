@@ -14,6 +14,7 @@ image: /img/ashraekaggle.png
 layout: project
 last-updated: 2019-07-01
 ---
+
 The BUDS Lab is the leading technical organizer of the biggest building energy-related machine learning competition ever held with over 2,500 participants, data from thousands of buildings, and US$25,000 in prize money for the top five winners. The competition ran from Oct.-Dec. 2019 and was sponsored by [ASHRAE](https://www.ashrae.org/) and hosted on the [Kaggle](https://www.kaggle.com/) platform. This competition is a resurrection of [prediction challenges hosted by ASHRAE in the mid-1990’s](https://www.kaggle.com/c/great-energy-predictor-shootout-i).
 
 Related publications:
