@@ -61,12 +61,20 @@ irvin:
     role: grad
 
 julien:
-    display_name: "Julien LePrince"
-    webpage: 
-    github: 
+    display_name: "Julien Leprince"
+    webpage: https://research.tue.nl/en/persons/julien-leprince
+    github: /img/people/JL.jpg
     image:
     role: grad
-Til:
+
+benedetto:
+    display_name: "Benedetto Grillone"
+    webpage: 
+    github: https://github.com/Begri
+    image: /img/people/benedetto.jpeg
+    role: grad
+
+till:
     display_name: "Till Stoeckmann"
     webpage: 
     github: 
@@ -98,13 +106,6 @@ pj:
     image: /img/people/pjjayasthissa.jpeg
     bio: "PostDoc, 2019. Now at New Zealand."
 
-jayashree:
-    display_name: "Dr. Jayashree Chadalawada"
-    webpage: "https://github.com/Jayashreerao"
-    github: "Jayashreerao"
-    role: alum
-    bio: "PostDoc, 2017-2019. Now at NUS Dept. of Civil Engineering"
-
 tapeesh:
     display_name: "Tapeesh Sood"
     webpage: "https://github.com/tapeesh"
@@ -112,6 +113,13 @@ tapeesh:
     role: alum
     image: /img/people/tapeesh.png
     bio: "Research Associate, 2017-2019. Now at WeWork"
+
+jayashree:
+    display_name: "Dr. Jayashree Chadalawada"
+    webpage: "https://github.com/Jayashreerao"
+    github: "Jayashreerao"
+    role: alum
+    bio: "PostDoc, 2017-2019. Now at NUS Dept. of Civil Engineering"
 
 kyu:
     display_name: "Dongkyu Lee"
