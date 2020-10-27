@@ -9,7 +9,7 @@ clayton:
 # staff/postdocs
 mario:
     display_name: "Mario Frei"
-    webpage: "https://github.com/mariofrei"
+    webpage: https://github.com/mariofrei
     github: mariofrei
     role: postdoc
     image: /img/people/mario.jpg
@@ -17,15 +17,15 @@ mario:
 
 martin:
     display_name: "Martin Mosteiro"
-    webpage: 
-    github:
+    webpage: "https://systems.arch.ethz.ch/about-us/team/team-zurich/martin-mosteiro-romero.html"
+    github: martin-mosteiro
     role: postdoc
     image: /img/people/martin.jpg
     bio: PostDoc
 
 miguel:
     display_name: "Miguel Martin"
-    webpage: 
+    webpage:
     github:
     role: postdoc
     image: /img/people/miguel.jpg
@@ -42,35 +42,35 @@ matias:
 mahmoud:
     display_name: "Mahmoud AbdelRahman"
     webpage: "https://github.com/MahmoudAbdelRahman"
-    github: "MahmoudAbdelRahman"
+    github: MahmoudAbdelRahman
     image: /img/people/mahmoudouf.jpg
     role: grad
 
 chun:
     display_name: "Chun Fu"
     webpage: "https://github.com/PatrickFu0302"
-    github: "PatrickFu0302"
+    github: PatrickFu0302
     image: /img/people/fuchun.png
     role: grad
 
 irvin:
     display_name: "Irvin Tang"
     webpage: "https://github.com/irrhuh"
-    github: "irrhuh"
+    github: irrhuh
     image: /img/people/irvin1.png
     role: grad
 
 julien:
     display_name: "Julien Leprince"
-    webpage: https://research.tue.nl/en/persons/julien-leprince
-    github: 
+    webpage: "https://research.tue.nl/en/persons/julien-leprince"
+    github:
     image: /img/people/jl.jpg
     role: grad
 
 benedetto:
     display_name: "Benedetto Grillone"
-    webpage: 
-    github: https://github.com/Begri
+    webpage: "https://www.beegroup-cimne.com/tag/benedetto-grillone/"
+    github: Begri
     image: /img/people/benedetto.jpeg
     role: grad
 
@@ -93,7 +93,7 @@ jonathan:
 ananya:
     display_name: "Ananya Joshi"
     webpage: "https://github.com/ananion-cation"
-    github: "ananion-cation"
+    github: ananion-cation
     role: alum
     image: /img/people/ananya.png
     bio: "Exchange Ph.D., 2019. Ph.D., at Carnegie Mellon University"
@@ -101,7 +101,7 @@ ananya:
 pj:
     display_name: "Dr. Prageeth Jayathissa"
     webpage: "https://github.com/pjayathissa"
-    github: "pjayathissa"
+    github: pjayathissa
     role: alum
     image: /img/people/pjjayasthissa.jpeg
     bio: "PostDoc, 2019. Now at New Zealand."
@@ -109,7 +109,7 @@ pj:
 tapeesh:
     display_name: "Tapeesh Sood"
     webpage: "https://github.com/tapeesh"
-    github: "tapeesh"
+    github: tapeesh
     role: alum
     image: /img/people/tapeesh.png
     bio: "Research Associate, 2017-2019. Now at WeWork"
@@ -117,14 +117,14 @@ tapeesh:
 jayashree:
     display_name: "Dr. Jayashree Chadalawada"
     webpage: "https://github.com/Jayashreerao"
-    github: "Jayashreerao"
+    github: Jayashreerao
     role: alum
     bio: "PostDoc, 2017-2019. Now at NUS Dept. of Civil Engineering"
 
 kyu:
     display_name: "Dongkyu Lee"
     webpage: "https://github.com/Kyu2"
-    github: "Kyu2"
+    github: Kyu2
     role: alum
     bio: "Research Associate, 2016-2017. Now at Hanyang University"
 
@@ -132,7 +132,7 @@ kyu:
 federico:
     display_name: "Dr. Federico Tartarini"
     webpage: "https://federicotartarini.github.io/"
-    github: "FedericoTartarini"
+    github: FedericoTartarini
     role: collab
     image: /img/people/federico.png
     bio: "PostDoc, BEARS"
@@ -140,7 +140,7 @@ federico:
 samy:
     display_name: "Dr. Pandarasamy Arjunan"
     webpage: "https://github.com/HiSamy"
-    github: "HiSamy"
+    github: HiSamy
     role: collab
     bio: "PostDoc, BEARS"
 
@@ -153,7 +153,7 @@ renee:
 
 jovan:
     display_name: "Dr. Jovan Pantelic"
-    webpage: ""
+    webpage:
     role: collab
     bio: "Assistant professional researcher, UC Berkeley"
 
